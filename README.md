@@ -88,6 +88,23 @@ EYE → SPACE is a Python-powered cinematic ASCII animation. It begins with a hu
 | `R` | Restart animation |
 | `ESC` | Exit animation |
 
+
+# 🌌 SCREENSHOT FOR VIEW THE OUTPUT 
+
+<div align="center">
+
+<a href="https://i.postimg.cc/0y2fG30Z/Screenshot-2026-11-15-205120.png">
+
+<img
+src="https://i.postimg.cc/0y2fG30Z/Screenshot-2026-11-15-205120.png"
+alt="EYE"
+width="98%"
+style="border-radius:18px;box-shadow:0 20px 60px rgba(0,0,0,.4);"/>
+
+</a>
+
+</div>
+
 ---
 
 ## 👨‍💻 DEVELOPER
