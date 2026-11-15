@@ -1,4 +1,8 @@
+<div align="center">
+  
 # 🌌 EYE → SPACE | A Cosmic ASCII Experience
+
+</div> 
 
 <div align="center">
 
@@ -67,41 +71,13 @@ EYE → SPACE is a Python-powered cinematic ASCII animation. It begins with a hu
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,vscode&theme=dark" />
 
 <br/><br/>
 
 `Python` &nbsp; `NumPy` &nbsp; `Tkinter` &nbsp; `Math` &nbsp; `Colorsys`
 
 </div>
-
----
-
-## 🚀 GET STARTED
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/MdFahadHossain006/EYE-TO-SPACE.git
-```
-
-### 2. Enter the project folder
-
-```bash
-cd EYE-TO-SPACE
-```
-
-### 3. Install dependency
-
-```bash
-pip install numpy
-```
-
-### 4. Run the animation
-
-```bash
-python "ASCII eye(1).py"
-```
 
 ---
 
@@ -114,31 +90,69 @@ python "ASCII eye(1).py"
 
 ---
 
-## 💻 DEVELOPER
+## 👨‍💻 DEVELOPER
+
+ **MD FAHAD HOSSAIN** 
+ <div align="center">
+   
+<img src="https://i.postimg.cc/DZQ8Tmcc/Whats-App-Image-2026-09-119-at-1-26-32-AM.jpg" width="190" style="border-radius:80%;">
+
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=800&color=7B2FF7&center=true&vCenter=true&width=600&lines=Software+Developer;Web+Developer;Cybersecurity+Enthusiast;Creator+of+F+-+NECESSARY+KOREA" alt="Animated developer introduction"/>
+</p>
+
+
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FF7,100:FF00CC&height=3&section=header" width="80%"/>
+## DEVELOPER CONTRACT 
 
-# MD. FAHAD HOSSAIN
+<a href="https://www.facebook.com/share/1D7ExweqoM/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
 
-### 🚀 SOFTWARE & CREATIVE DEVELOPER
+<a href="https://www.instagram.com/mdfahadhossain006?igsh=ZzhhbzljaXVxcmFw">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
-*Turning imagination into code, and code into experiences.*
+<a href="https://youtube.com/@brightnessworld?si=0pf1lSEkvWSLXASs">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
 
 <a href="https://github.com/MdFahadHossain006">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/mdfahadhossain006">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.youtube.com/@brightnessworld">
-<img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<br/><br/>
+</div> 
 
-**THIS PROJECT IS CREATED BY MD. FAHAD HOSSAIN**
+---
+</div> 
+
+### ⚠️ Copyright & License
+
+**© 2026 MD. FAHAD HOSSAIN. All Rights Reserved.**
+
+This project is **proprietary Website & Software**. Unauthorized copying, distribution, 
+modification, or use of this code is strictly prohibited.
+
+- ❌ **No forking** without permission
+- ❌ **No copying** of source code
+- ❌ **No commercial use**
+- ✅ **Personal use only** as an end-user
+
+**Legal action will be taken against violators.**
+
+[Contact for Licensing](https://www.instagram.com/mdfahadhossain006)
+****
+
+> ### 💌 "Every line of code carries a little emotion."
+
+<br>
+
+⭐ **If you enjoyed this project, consider starring the repository.**
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,25:7b2ff7,50:00c6ff,75:00f5a0,100:ffff00&height=130&section=footer&animation=twinkling" width="100%"/>
 
